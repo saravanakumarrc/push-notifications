@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saravanakumarrc/pushservice.git"
+    "url": "https://github.com/saravanakumarrc/push-notifications"
   },
   "keywords": [
     "push",
