@@ -1,0 +1,29 @@
+{
+  "name": "pushservice",
+  "version": "1.0.0",
+  "description": "a push service to send push notifications to angular app using webpush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravanakumarrc/pushservice.git"
+  },
+  "keywords": [
+    "push",
+    "service",
+    "angular",
+    "nodejs",
+    "webpush"
+  ],
+  "author": "saravanakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravanakumarrc/pushservice/issues"
+  },
+  "homepage": "https://github.com/saravanakumarrc/pushservice#readme",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  }
+}
